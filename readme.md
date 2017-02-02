@@ -30,4 +30,4 @@
 
 配置说明
 =======
-lib中的文件置于app文件夹下，data中的文件置于com.3a.StormAttack目录下
+lib中的文件置于app目录下，data中的文件置于com.3a.StormAttack目录下，conf中的文件覆盖到conf下
